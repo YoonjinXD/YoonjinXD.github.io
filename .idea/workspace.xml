@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d24d79d0-b664-4340-b50a-e7fc5cd55821" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/post.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/accordion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/accordion.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/accordion.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/ad.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/ad.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/api.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/breadcrumb.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/breadcrumb.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/button.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/card.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/checkbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/checkbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/checkbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/checkbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/colorize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/colorize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/comment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/comment.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/container.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/container.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/dimmer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/dimmer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/dimmer.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/dimmer.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/divider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/divider.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/dropdown.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/dropdown.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/dropdown.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/embed.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/embed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/embed.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/embed.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/feed.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/feed.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/flag.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/flag.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/form.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/form.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/header.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/icon.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/image.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/input.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/input.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/item.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/label.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/label.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/list.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/loader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/loader.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/menu.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/message.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/message.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/modal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/modal.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/modal.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/nag.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/nag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/nag.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/nag.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/placeholder.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/placeholder.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/popup.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/progress.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/progress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/progress.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/progress.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/rail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/rail.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/rating.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/rating.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/rating.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/rating.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/reset.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/reveal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/reveal.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/search.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/search.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/segment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/segment.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/shape.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/shape.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/shape.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/shape.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/sidebar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/sidebar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/sidebar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/site.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/site.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/site.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/state.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/state.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/statistic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/statistic.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/step.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/step.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/sticky.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/sticky.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/sticky.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/tab.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/tab.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/tab.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/table.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/transition.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/transition.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/transition.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/video.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/video.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/video.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/visibility.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/visibility.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/visit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/components/visit.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-08-27-welcome-to-jekyll.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/atom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apple-touch-icon-144-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/hyde.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/hyde.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="post.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/post.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="601">
+              <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sidebar.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hyde.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/hyde.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="658">
+              <caret line="189" column="1" lean-forward="true" selection-start-line="189" selection-end-line="190" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="poole.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/poole.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4740">
+              <caret line="61" column="7" selection-start-line="61" selection-start-column="2" selection-end-line="61" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="syntax.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/syntax.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="38" column="28" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>images</find>
+      <find>underline</find>
+      <find>font</find>
+      <find>color</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/blog.html" />
+        <option value="$PROJECT_DIR$/_site/index.html" />
+        <option value="$PROJECT_DIR$/posts.md" />
+        <option value="$PROJECT_DIR$/post.html" />
+        <option value="$PROJECT_DIR$/_posts/2019-08-01-AIKorea-2019-리뷰.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-07-30-순차적-정보를-다루는-딥러닝-모델들.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-07-30-트랜스포머-내멋대로-정리.md" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/atom.xml" />
+        <option value="$PROJECT_DIR$/post.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-07-18-좋은-URL들.md" />
+        <option value="$PROJECT_DIR$/_includes/sidebar.html" />
+        <option value="$PROJECT_DIR$/_layouts/page.html" />
+        <option value="$PROJECT_DIR$/about.md" />
+        <option value="$PROJECT_DIR$/public/css/hyde.css" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="YoonjinXD.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YoonjinXD.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YoonjinXD.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YoonjinXD.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YoonjinXD.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YoonjinXD.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YoonjinXD.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YoonjinXD.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YoonjinXD.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YoonjinXD.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YoonjinXD.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YoonjinXD.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YoonjinXD.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YoonjinXD.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YoonjinXD.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YoonjinXD.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YoonjinXD.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YoonjinXD.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/YoonjinXD.github.io/index.html" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d24d79d0-b664-4340-b50a-e7fc5cd55821" name="Default" comment="" />
+      <created>1569665431942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569665431942</updated>
+      <workItem from="1569665435128" duration="9593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9593000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-08-27-welcome-to-jekyll.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/customstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-927">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/feed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="e#450#455#0" expanded="true" />
+            <element signature="e#1086#1090#0" expanded="true" />
+            <element signature="e#1302#1306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/assets/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/assets/minima-social-icons.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/atom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/posts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-729">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="e#389#397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-127">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-08-01-AIKorea-2019-리뷰.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-07-30-순차적-정보를-다루는-딥러닝-모델들.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="78" column="25" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-07-18-좋은-URL들.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-07-30-트랜스포머-내멋대로-정리.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1416">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <element signature="e#2556#2561#0" expanded="true" />
+            <element signature="e#2654#2659#0" expanded="true" />
+            <element signature="e#3231#3236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/poole.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4740">
+          <caret line="61" column="7" selection-start-line="61" selection-start-column="2" selection-end-line="61" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/syntax.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/hyde.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="189" column="1" lean-forward="true" selection-start-line="189" selection-end-line="190" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

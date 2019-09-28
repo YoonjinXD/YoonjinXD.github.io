@@ -6,10 +6,10 @@
 #permalink: pretty
 #relative_permalinks: true
 
-title: 슬피우는 컴과생
+title: Chick's blog
 email: anazzz1685@gmail.com
 description: "Computer Science & Deep Learning blog"
-baseurl: / # the subpath of your site, e.g. /blog
+baseurl: /
 author:
         name: 'Yoon Jin Chung'
         url: "https://github.com/YoonjinXD/" 

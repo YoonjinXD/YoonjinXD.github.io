@@ -182,3 +182,12 @@ a.sidebar-nav-item:focus {
 .theme-base-0b .related-posts li a:hover {
   color: #0B3B17;
 }
+
+
+/* Custom Added */
+.underline{
+  text-decoration: underline;
+}
+.green{
+  color: #336666;
+}

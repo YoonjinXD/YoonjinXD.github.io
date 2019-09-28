@@ -3,28 +3,46 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<center><img src="{{site.url}}/public/images/about/chick.png" width="30%" height="30%"></center>
+<center><h2 class="underline">YOON JIN CHUNG</h2></center>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<br>
+<center><h2 class="green">Profile</h2></center>
 
-There are currently two themes built on Poole:
+### Summer Intern, Surromind Robotics
+I have worked as a summer intern in AI start-up 'Surromind Robotics'.
+Researched and Developed Visual Storytelling Models.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Undergraduate Research Assistant, Machine Learning & Vision Lab
+I have worked as an undergraduate research assistant in Machine Learning & Vision lab led by Prof. Hyunwoo Kim.
+Researched into Computer Vision and Visual Relationship Detection.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### Undergraduate research assistant, Operating System Lab
+I have worked as an undergraduate research assistant in Operating System lab led by Prof. Chuck Yoo for a year. Mainly researched virtualization in OpenStack environment. Submitted a paper to Korea Computer Congress 2018(KCC 2018, 한국 정보과학회) on undergraduate poster session, accepted.
 
-## Setup
+### Web Developer & Designer
+Designing and developing websites for clients.
+e.g. device booking, music co-producting and user based lame-jokes ranking.
 
-Some fun facts about the setup of this project include:
+---
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+### Computer Science, Bachelor's degree
+I have been studying Computer science in Korea University since 2015.
+I have studied Computer science in University of Copenhagen as an exchange student (for 6 months).
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+---
 
-Thanks for reading!
+### Wanderlust
+I have traveled a lot, and want to explore more!
+
+
+<br>
+<center><h2 class="green">Curriculum Vitae</h2></center>
+### Github
+[YoonjinXD](https://github.com/YoonjinXD)
+
+---
+
+### CV(.pdf)
+[한국어]({{site.url}}/data/document/CV_Yoonjin_Chung_korean.pdf) <br>
+[English]({{site.url}}/data/document/CV_Yoonjin_Chung_eng.pdf)
