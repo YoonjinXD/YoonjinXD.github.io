@@ -10,13 +10,13 @@ title: Chick's blog
 email: anazzz1685@gmail.com
 description: "Computer Science & Deep Learning blog"
 url: https://yoonjinxd.github.io
-baseurl: /
+baseurl:
 author:
         name: 'Yoon Jin Chung'
         url: https://github.com/YoonjinXD
 github_username: YoonjinXD
 github:
-        repo: https://github.com/YoonjinXD
+        repo: https://github.com/YoonjinXD/YoonjinXD.github.io
 
 # Build settings
 theme: minima
