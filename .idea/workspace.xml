@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d24d79d0-b664-4340-b50a-e7fc5cd55821" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-18-좋은-URL들.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-18-좋은-URL들.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-30-순차적-정보를-다루는-딥러닝-모델들.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-30-순차적-정보를-다루는-딥러닝-모델들.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-30-트랜스포머-내멋대로-정리.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-30-트랜스포머-내멋대로-정리.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-08-01-AIKorea-2019-리뷰.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-08-01-AIKorea-2019-리뷰.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post.md" beforeDir="false" afterPath="$PROJECT_DIR$/post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/hyde.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/hyde.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/poole.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/poole.css" afterDir="false" />
-    </list>
+    <list default="true" id="d24d79d0-b664-4340-b50a-e7fc5cd55821" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -32,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/Etc.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="39" />
+              <caret line="9" column="39" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -41,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -299,12 +285,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569665431942</updated>
-      <workItem from="1569665435128" duration="22348000" />
+      <workItem from="1569665435128" duration="22530000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22348000" />
+    <option name="totallyTimeSpent" value="22530000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -543,7 +529,7 @@
     <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
@@ -567,7 +553,7 @@
     <entry file="file://$PROJECT_DIR$/Etc.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="39" />
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="39" />
         </state>
       </provider>
     </entry>
