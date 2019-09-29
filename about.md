@@ -3,6 +3,7 @@ layout: page
 title: About
 ---
 
+
 <center><img src="{{site.url}}/public/images/about/chick.png" width="30%" height="30%"></center>
 <center><h2 class="underline">YOON JIN CHUNG</h2></center>
 
