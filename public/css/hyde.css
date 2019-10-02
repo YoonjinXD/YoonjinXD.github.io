@@ -201,6 +201,7 @@ a.sidebar-nav-item:focus {
 /* Custom Added */
 .underline{
   text-decoration: underline;
+  line-height: 1.7;
 }
 .green{
   color: #336666;
