@@ -1,8 +1,9 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
+
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.baseurl }}">
+        <a href="{{ site.url }}">
           {{ site.title }}
         </a>
       </h1>
@@ -10,7 +11,6 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -25,10 +25,23 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">Project</a>
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <div class="sidebar-footer">
+      <a id="contact" style="cursor: pointer"><i class="ui large mail icon"></i></a>
+      <a href="{{ site.author.url }}"><i class="ui large github icon"></i></a>
+      <a href="{{ site.author.linkedin }}"><i class="ui large linkedin icon"></i></a>
+      <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    </div>
+  </div>
+</div>
+
+<div id="contact-modal" class="ui basic center modal">
+  <div class="ui icon header">
+    <i class="mail icon"></i>Contact
+  </div>
+  <div class="ui center aligned container">
+    <p>anazzz1685@gmail.com</p>
+    <p>chung1685@korea.ac.kr</p>
   </div>
 </div>
