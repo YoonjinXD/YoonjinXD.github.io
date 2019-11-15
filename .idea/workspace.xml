@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d24d79d0-b664-4340-b50a-e7fc5cd55821" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-11-16-2019-프로그래머스-윈터코딩-문제풀이.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-11-16-2019-프로그래머스-윈터코딩-문제풀이.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-10-02-2019-Naver 온라인 코딩테스트 리뷰.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-10-02-2019-Naver 온라인 코딩테스트 리뷰.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,20 +25,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-11-16-2019-프로그래머스-윈터코딩-문제풀이.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-11-16-2019-프로그래머스-윈터코딩-문제풀이.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-11-16-2019-프로그래머스-윈터코딩-문제풀이.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="180" column="14" lean-forward="true" selection-start-line="180" selection-start-column="14" selection-end-line="180" selection-end-column="14" />
+            <state relative-caret-position="546">
+              <caret line="185" column="31" selection-start-line="185" selection-start-column="31" selection-end-line="185" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-10-02-2019-Naver 온라인 코딩테스트 리뷰.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2019-10-02-2019-Naver 온라인 코딩테스트 리뷰.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-10-02-2019-Naver 온라인 코딩테스트 리뷰.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="630">
+              <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -152,8 +152,8 @@
         <option value="$PROJECT_DIR$/_posts/2019-09-20-NAVER-지원서.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/sidebar.html" />
-        <option value="$PROJECT_DIR$/_posts/2019-10-02-2019-Naver 온라인 코딩테스트 리뷰.md" />
         <option value="$PROJECT_DIR$/_posts/2019-11-16-2019-프로그래머스-윈터코딩-문제풀이.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-10-02-2019-Naver 온라인 코딩테스트 리뷰.md" />
       </list>
     </option>
   </component>
@@ -281,12 +281,12 @@
       <updated>1569665431942</updated>
       <workItem from="1569665435128" duration="25288000" />
       <workItem from="1570256686084" duration="2157000" />
-      <workItem from="1573833020166" duration="1108000" />
+      <workItem from="1573833020166" duration="1190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28553000" />
+    <option name="totallyTimeSpent" value="28635000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -566,17 +566,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-10-02-2019-Naver 온라인 코딩테스트 리뷰.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-16-2019-프로그래머스-윈터코딩-문제풀이.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="546">
+          <caret line="185" column="31" selection-start-line="185" selection-start-column="31" selection-end-line="185" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-11-16-2019-프로그래머스-윈터코딩-문제풀이.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-10-02-2019-Naver 온라인 코딩테스트 리뷰.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="180" column="14" lean-forward="true" selection-start-line="180" selection-start-column="14" selection-end-line="180" selection-end-column="14" />
+        <state relative-caret-position="630">
+          <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
         </state>
       </provider>
     </entry>
