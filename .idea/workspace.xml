@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d24d79d0-b664-4340-b50a-e7fc5cd55821" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-10-02-2019-Naver 온라인 코딩테스트 리뷰.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-10-02-2019-Naver 온라인 코딩테스트 리뷰.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-10-02-2019-Naver 온라인 코딩테스트 리뷰.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2019-10-02-2019-Naver 온라인 코딩테스트 리뷰.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-10-02-2019-Naver 온라인 코딩테스트 리뷰.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -54,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sidebar.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sidebar.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -150,12 +148,12 @@
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/public/css/hyde.css" />
         <option value="$PROJECT_DIR$/_posts/2019-07-30-순차적-정보를-다루는-딥러닝-모델들.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-10-02-2019-Naver 온라인 코딩테스트 리뷰.md" />
         <option value="$PROJECT_DIR$/_posts/2019-07-30-트랜스포머-내멋대로-정리.md" />
         <option value="$PROJECT_DIR$/_posts/2019-09-20-NAVER-지원서.md" />
         <option value="$PROJECT_DIR$/_posts/2019-11-16-2019-프로그래머스-윈터코딩-문제풀이.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/sidebar.html" />
+        <option value="$PROJECT_DIR$/_posts/2019-10-02-2019-Naver 온라인 코딩테스트 리뷰.md" />
       </list>
     </option>
   </component>
@@ -283,12 +281,12 @@
       <updated>1569665431942</updated>
       <workItem from="1569665435128" duration="25288000" />
       <workItem from="1570256686084" duration="2157000" />
-      <workItem from="1573833020166" duration="689000" />
+      <workItem from="1573833020166" duration="886000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28134000" />
+    <option name="totallyTimeSpent" value="28331000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -547,13 +545,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-07-30-트랜스포머-내멋대로-정리.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2019-09-20-NAVER-지원서.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2019-10-02-2019-Naver 온라인 코딩테스트 리뷰.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-08-01-AIKorea-2019-리뷰.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -579,6 +570,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-10-02-2019-Naver 온라인 코딩테스트 리뷰.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
