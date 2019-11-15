@@ -10,7 +10,7 @@ title: Chick's blog
 email: anazzz1685@gmail.com
 description: "Computer Science & Deep Learning blog"
 url: https://yoonjinxd.github.io
-baseurl:
+baseurl: ""
 author:
         name: 'Yoon Jin Chung'
         url: https://github.com/YoonjinXD
