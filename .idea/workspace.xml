@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d24d79d0-b664-4340-b50a-e7fc5cd55821" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-18-좋은-URL들.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-18-좋은-URL들.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-11-28-개발자 면접 예상 질문 (하).md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-11-28-개발자 면접 예상 질문 (하).md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,8 +46,8 @@
       <file leaf-file-name="2019-11-28-개발자 면접 예상 질문 (하).md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-11-28-개발자 면접 예상 질문 (하).md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="246" column="3" selection-start-line="246" selection-start-column="3" selection-end-line="246" selection-end-column="3" />
+            <state relative-caret-position="630">
+              <caret line="131" column="12" lean-forward="true" selection-start-line="131" selection-start-column="12" selection-end-line="131" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -294,12 +293,12 @@
       <workItem from="1569665435128" duration="25288000" />
       <workItem from="1570256686084" duration="2157000" />
       <workItem from="1573833020166" duration="2324000" />
-      <workItem from="1574927677401" duration="1055000" />
+      <workItem from="1574927677401" duration="1219000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30824000" />
+    <option name="totallyTimeSpent" value="30988000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -588,8 +587,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-11-28-개발자 면접 예상 질문 (하).md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="246" column="3" selection-start-line="246" selection-start-column="3" selection-end-line="246" selection-end-column="3" />
+        <state relative-caret-position="630">
+          <caret line="131" column="12" lean-forward="true" selection-start-line="131" selection-start-column="12" selection-end-line="131" selection-end-column="12" />
         </state>
       </provider>
     </entry>
