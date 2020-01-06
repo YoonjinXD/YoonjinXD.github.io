@@ -6,7 +6,8 @@
 #permalink: pretty
 #relative_permalinks: true
 
-title: "Chick's blog"
+# General Info
+title: Chick's blog
 email: anazzz1685@gmail.com
 description: "Computer Science & Deep Learning blog"
 url: https://yoonjinxd.github.io
@@ -20,6 +21,7 @@ github:
         repo: https://github.com/YoonjinXD/YoonjinXD.github.io
 
 # Build settings
+encoding: utf-8
 theme: minima
 plugins:
   - jekyll-feed
