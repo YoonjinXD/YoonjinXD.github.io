@@ -11,6 +11,9 @@ title: About
 <br>
 <center><h2 class="green">Profile</h2></center>
 
+### iOS Developer, Naver Corporation **(Present)**
+네이버 메인앱 개발.
+
 ### Summer Intern, Surromind Robotics
 AI 스타트업 *써로마인드 로보틱스* 에서 써머 인턴쉽.
 Visual Storytelling 챌린지 연구개발 및 이미지 데이터 수집/프로세싱.
