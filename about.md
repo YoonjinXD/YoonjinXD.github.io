@@ -3,13 +3,13 @@ layout: page
 title: About
 ---
 
+### Graduate School of AI, MS, KAIST(Present)
+한국과학기술원 AI 대학원 석사(현)
 
-<center><img src="{{site.url}}/public/images/about/chick.png" width="30%" height="30%"></center>
-<center><h2 class="underline">YOON JIN CHUNG</h2></center>
-<center><h3> 정 윤 진 </h3></center>
+### Computer Science, BA, Korea University
+고려대학교 컴퓨터학과 학사
 
-<br>
-<center><h2 class="green">Profile</h2></center>
+---
 
 ### iOS Developer, Naver
 네이버 메인앱 개발, iOS 개발.
@@ -31,17 +31,6 @@ AI 스타트업 *써로마인드 로보틱스*, 써머 인턴쉽.<br>Visual Stor
 
 ---
 
-### Computer Science, Bachelor's degree, Korea University
-고려대학교 컴퓨터학과 학사
-
----
-
-### Wanderlust
-
-
-
-<br>
-<center><h2 class="green">Curriculum Vitae</h2></center>
 ### Github
 [YoonjinXD](https://github.com/YoonjinXD)
 
