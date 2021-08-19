@@ -5,12 +5,15 @@ submenu: false
 description: 전체
 ---
 
-<ul>
+<br>
+
+<div class="posts">
   {% for post in site.posts %}
-      {% if post.tags contains "DeepLearning" %}
-        <li>
-          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        </li>
-      {% endif %}
+  <h3 class="post-title">
+    <a href="{{ post.url }}">
+      {{ post.title }}
+    </a>
+  </h3>
+  <p class="description">{{ post.date | date_to_string }}</p>
   {% endfor %}
-</ul>
+</div>
