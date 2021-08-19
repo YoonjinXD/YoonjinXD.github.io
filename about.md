@@ -11,34 +11,33 @@ title: About
 <br>
 <center><h2 class="green">Profile</h2></center>
 
-### iOS Developer, Naver Corporation **(Present)**
-네이버 메인앱 개발.
+### iOS Developer, Naver
+네이버 메인앱 개발, iOS 개발.
 
 ### Summer Intern, Surromind Robotics
-AI 스타트업 *써로마인드 로보틱스* 에서 써머 인턴쉽.
-Visual Storytelling 챌린지 연구개발 및 이미지 데이터 수집/프로세싱.
+AI 스타트업 *써로마인드 로보틱스*, 써머 인턴쉽.<br>Visual Storytelling 챌린지 연구개발 및 이미지 데이터 수집/프로세싱.
 
 ### Undergraduate Research Assistant, Machine Learning & Vision Lab
-고려대학교 *머신러닝&컴퓨터 비전 연구실*에서 Visual Relationship Detection(VRD) 연구 및 실험 보조.
+고려대학교 *머신러닝&컴퓨터 비전 연구실*, 학부연구생.<br>Visual Relationship Detection(VRD) 연구.
 
 ### Undergraduate research assistant, Operating System Lab
-고려대학교 *운영체제 연구실*에서 오픈스택 가상화 환경에서 가상머신 성능 차등화 및 제어 연구 및 실험 보조.
+고려대학교 *운영체제 연구실*, 학부연구생.<br> OpenStack 가상화 환경에서 가상머신 성능 차등화 및 제어 연구.
 
 ### Web Developer & Designer, Pop in Bridge
-스타트업 회사 *Pop in Bridge*에서 공동 음악 창작 웹 플랫폼 개발.
+공동 음악 창작 웹 플랫폼 스타트업 *Pop in Bridge*, 웹 개발.
 
 ### Web Developer, Korea University
 웹기반 장비 예약 및 관리 시스템 개발.
 
 ---
 
-### Computer Science, Bachelor's degree
-컴퓨터학과 학사
+### Computer Science, Bachelor's degree, Korea University
+고려대학교 컴퓨터학과 학사
 
 ---
 
 ### Wanderlust
-#배낭여행 #싸돌아다니는 것 좋아함
+
 
 
 <br>
@@ -52,7 +51,3 @@ Visual Storytelling 챌린지 연구개발 및 이미지 데이터 수집/프로
 [한국어]({{site.url}}/data/document/CV_Yoonjin_Chung_korean.pdf) <br>
 [English]({{site.url}}/data/document/CV_Yoonjin_Chung_eng.pdf)
 
----
-
-### 이전 소개 페이지
-[Yoonjin](https://yoonjinxd.github.io/Yoonjin/)
