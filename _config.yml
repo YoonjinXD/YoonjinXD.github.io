@@ -7,16 +7,16 @@
 #relative_permalinks: true
 
 # General Info
-title: Chick's blog
+title: yoonjinxd
 email: anazzz1685@gmail.com
-description: "Computer Science & Deep Learning blog"
+description: "Computer Science & Deep Learning"
 url: https://yoonjinxd.github.io
 baseurl: ""
 author:
         name: 'Yoon Jin Chung'
         url: https://github.com/YoonjinXD
         linkedin: https://www.linkedin.com/in/yoonjin-chung-03783016a/
-github_username: YoonjinXD
+github_username: yoonjinxd
 github:
         repo: https://github.com/YoonjinXD/YoonjinXD.github.io
 
