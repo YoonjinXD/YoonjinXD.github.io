@@ -80,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/_site/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1650">
-              <caret line="1070" selection-start-line="1070" selection-end-line="1070" />
+              <caret line="1094" selection-start-line="1094" selection-end-line="1094" />
             </state>
           </provider>
         </entry>
@@ -103,29 +103,29 @@
         <entry file="file://$PROJECT_DIR$/.github/workflows/pages-deploy.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-07-30-순차적-정보를-다루는-딥러닝-모델들.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="390">
-                <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+              <first_editor relative-caret-position="360">
+                <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-08-01-AIKorea-2019-리뷰.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="645">
-                <caret line="43" column="46" lean-forward="true" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+                <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
               </first_editor>
               <second_editor />
             </state>
@@ -183,8 +183,8 @@
         <option value="$PROJECT_DIR$/_data/contact.yml" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/.github/workflows/pages-deploy.yml" />
-        <option value="$PROJECT_DIR$/_posts/2019-07-30-순차적-정보를-다루는-딥러닝-모델들.md" />
         <option value="$PROJECT_DIR$/_posts/2019-08-01-AIKorea-2019-리뷰.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-07-30-순차적-정보를-다루는-딥러닝-모델들.md" />
       </list>
     </option>
   </component>
@@ -281,12 +281,12 @@
       <updated>1655788191812</updated>
       <workItem from="1655788196014" duration="5226000" />
       <workItem from="1656419466207" duration="54000" />
-      <workItem from="1656419527507" duration="1379000" />
+      <workItem from="1656419527507" duration="1517000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6659000" />
+    <option name="totallyTimeSpent" value="6797000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1080" width="1920" height="1080" extended-state="0" />
@@ -395,7 +395,7 @@
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1650">
-          <caret line="1070" selection-start-line="1070" selection-end-line="1070" />
+          <caret line="1094" selection-start-line="1094" selection-end-line="1094" />
         </state>
       </provider>
     </entry>
@@ -426,17 +426,7 @@
     <entry file="file://$PROJECT_DIR$/.github/workflows/pages-deploy.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-07-30-순차적-정보를-다루는-딥러닝-모델들.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="390">
-            <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
-          </first_editor>
-          <second_editor />
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
@@ -454,7 +444,17 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="645">
-            <caret line="43" column="46" lean-forward="true" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+            <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-07-30-순차적-정보를-다루는-딥러닝-모델들.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
           </first_editor>
           <second_editor />
         </state>
