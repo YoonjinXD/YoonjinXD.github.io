@@ -26,13 +26,13 @@ Daftpunk, Zedd, Stevie Wonder와 같은 보컬 트랙에 등장하는 보코더 
 
 
 
-<img src="2022-06-27-Vocoder-Project/vocoder.png" width="70%">
+<img src="{{site.url}}/images/2022-06-27-Vocoder-Project/vocoder.png">
 
 *Figure.1 Implementation of Vocoder*
 
 <br>
 
 
-<img src="2022-06-27-Vocoder-Project/compare_stft.png" width="70%">
+<img src="{{site.url}}/images/2022-06-27-Vocoder-Project/compare_stft.png">
 
 *Figure.2 Comparison between original STFT and vocoded STFT*

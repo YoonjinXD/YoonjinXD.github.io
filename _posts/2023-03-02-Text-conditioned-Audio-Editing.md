@@ -17,7 +17,7 @@ Yoonjin Chung, Junwon Lee
 # Introduction
 Since finding specific data that satisfy various conditions in the real world, generating new data by editing samples has been a goal to achieve and a challenging task as well. In this study, we address the text-conditioned audio editing problem for the first time, to the best of our knowledge, by fine-tuning and interpolating text embeddings of audio captions. Our task aims to generate target sounds that are slightly modified from existing audio referring to given caption conditions.
 
-<img src="{{site.url}}/images/2023-03-02-Text-conditioned-Audio-Editing/figure_1.png" width="70%">
+<img src="{{site.url}}/images/2023-03-02-Text-conditioned-Audio-Editing/figure_1.png">
 
 - We address the text-conditioned audio editing task, which has rarely been studied.
 - We optimize the given text embedding and fine-tune the discrete diffusion model to generate semantically edited sound.
@@ -36,7 +36,7 @@ We exploit pretrained Diffsound model as our base framework as it is the only te
 Among the components, we do not fintune VQ-VAE, the decoder part that generates mel spectrogram from a sequence of quantized mel spectrogram tokens, and MelGAN, the vocoder, which is both trained on Audioset respectively. The two are not involved in processing text caption but in generating the audio sound. In this paper, we focus on CLIP which encodes the text prompt, and discrete diffusion model which generates a quantized token sequence conditioned on the text embedding. 
 
 
-<img src="{{site.url}}/images/2023-03-02-Text-conditioned-Audio-Editing/figure_2.png" width="70%">
+<img src="{{site.url}}/images/2023-03-02-Text-conditioned-Audio-Editing/figure_2.png">
 
 
 ## Methods
@@ -51,25 +51,39 @@ We follow the proposed method suggested in Imagic (Kawar et al., 2022) to achiev
 # Result
 We have verified that substitution in sound source (i.e. who/what is making sound, which kind of sound has occurred) is successful while preserving the structural feature of the audio.
 
-<img src="{{site.url}}/images/2023-03-02-Text-conditioned-Audio-Editing/result.png" width="70%">
+<img src="{{site.url}}/images/2023-03-02-Text-conditioned-Audio-Editing/result.png">
+
+### Sample 1
+(Original)A car horn sounds loudly and then fades away → (Edited)A bell sounds loudly and then fades away
 
 <table>
     <tr>
-        <th></th>
         <th>Original</th>
         <th>Editied</th>
     </tr>
     <tr>
-        <td>(Original)A car horn sounds loudly and then fades away<br><tb>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓<br>(Edited)A bell sounds loudly and then fades away</td>
         <td><audio src="{{site.url}}/images/2023-03-02-Text-conditioned-Audio-Editing/Y2KCoO8C8R8.wav" controls></audio></td>
-        <td><audio src="2023-03-02-Text-conditioned-Audio-Editing/Y2KCoO8C8R8_G_0.6.wav" controls></audio></td>
-    </tr>
-    <tr>
-        <td>(Original)A woman gives a speech<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓<br>(Edited)A man gives a speech</td>
-        <td><audio src="2023-03-02-Text-conditioned-Audio-Editing/1wOcbw5Rg84.wav" controls></audio></td>
-        <td><audio src="2023-03-02-Text-conditioned-Audio-Editing/1wOcbw5Rg84_G_0.5.wav" controls></audio></td>
+        <td><audio src="{{site.url}}/images/2023-03-02-Text-conditioned-Audio-Editing/Y2KCoO8C8R8_G_0.6.wav" controls></audio></td>
     </tr>
 </table>
+
+<br>
+
+### Sample 2
+(Original)A woman gives a speech → (Edited)A man gives a speech
+
+<table>
+    <tr>
+        <th>Original</th>
+        <th>Editied</th>
+    </tr>
+    <tr>
+        <td><audio src="{{site.url}}/images/2023-03-02-Text-conditioned-Audio-Editing/1wOcbw5Rg84.wav" controls></audio></td>
+        <td><audio src="{{site.url}}/images/2023-03-02-Text-conditioned-Audio-Editing/1wOcbw5Rg84_G_0.5.wav" controls></audio></td>
+    </tr>
+</table>
+
+<br>
 
 
 As you can see from the given samples, it is able to edit  the horn to the bell sound while maintaining a structure in which the bell rings once loudly and then fades away as same as the original audio.

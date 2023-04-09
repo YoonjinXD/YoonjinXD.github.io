@@ -28,6 +28,6 @@ You can also check all the implementations in the uploaded notebook.
 <br>
 <br>
 
-<img src="2021-11-22-Music-Auto-Tagging/cnn_architecture.png" width="70%">
+<img src="{{site.url}}/images/2021-11-22-Music-Auto-Tagging/cnn_architecture.png">
 <br>
-<img src="2021-11-22-Music-Auto-Tagging/triplet_sampling.png" width="70%">
+<img src="{{site.url}}/images/2021-11-22-Music-Auto-Tagging/triplet_sampling.png">
