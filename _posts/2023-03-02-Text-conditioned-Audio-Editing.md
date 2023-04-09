@@ -17,7 +17,7 @@ Yoonjin Chung, Junwon Lee
 # Introduction
 Since finding specific data that satisfy various conditions in the real world, generating new data by editing samples has been a goal to achieve and a challenging task as well. In this study, we address the text-conditioned audio editing problem for the first time, to the best of our knowledge, by fine-tuning and interpolating text embeddings of audio captions. Our task aims to generate target sounds that are slightly modified from existing audio referring to given caption conditions.
 
-<img src="2023-03-02-Text-conditioned-Audio-Editing/figure_1.png" width="70%">
+<img src="{{site.url}}/images/2023-03-02-Text-conditioned-Audio-Editing/figure_1.png" width="70%">
 
 - We address the text-conditioned audio editing task, which has rarely been studied.
 - We optimize the given text embedding and fine-tune the discrete diffusion model to generate semantically edited sound.
@@ -36,7 +36,7 @@ We exploit pretrained Diffsound model as our base framework as it is the only te
 Among the components, we do not fintune VQ-VAE, the decoder part that generates mel spectrogram from a sequence of quantized mel spectrogram tokens, and MelGAN, the vocoder, which is both trained on Audioset respectively. The two are not involved in processing text caption but in generating the audio sound. In this paper, we focus on CLIP which encodes the text prompt, and discrete diffusion model which generates a quantized token sequence conditioned on the text embedding. 
 
 
-<img src="2023-03-02-Text-conditioned-Audio-Editing/figure_2.png" width="70%">
+<img src="{{site.url}}/images/2023-03-02-Text-conditioned-Audio-Editing/figure_2.png" width="70%">
 
 
 ## Methods
@@ -51,7 +51,7 @@ We follow the proposed method suggested in Imagic (Kawar et al., 2022) to achiev
 # Result
 We have verified that substitution in sound source (i.e. who/what is making sound, which kind of sound has occurred) is successful while preserving the structural feature of the audio.
 
-<img src="2023-03-02-Text-conditioned-Audio-Editing/result.png" width="70%">
+<img src="{{site.url}}/images/2023-03-02-Text-conditioned-Audio-Editing/result.png" width="70%">
 
 <table>
     <tr>
@@ -61,7 +61,7 @@ We have verified that substitution in sound source (i.e. who/what is making soun
     </tr>
     <tr>
         <td>(Original)A car horn sounds loudly and then fades away<br><tb>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓<br>(Edited)A bell sounds loudly and then fades away</td>
-        <td><audio src="2023-03-02-Text-conditioned-Audio-Editing/Y2KCoO8C8R8.wav" controls></audio></td>
+        <td><audio src="{{site.url}}/images/2023-03-02-Text-conditioned-Audio-Editing/Y2KCoO8C8R8.wav" controls></audio></td>
         <td><audio src="2023-03-02-Text-conditioned-Audio-Editing/Y2KCoO8C8R8_G_0.6.wav" controls></audio></td>
     </tr>
     <tr>
