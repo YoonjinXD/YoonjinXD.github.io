@@ -6,10 +6,11 @@ math: false
 mermaid: false
 ---
 
-**"Mimicking Vocal Tracks by Implementing and Applying Vocoder Effect"**, *Spring 2022 GCT535 Final Project*
-Yoonjin Chung, Junwon Lee
+*Spring 2022 GCT535 Final Project*, Yoonjin Chung, Junwon Lee
 
-[Demo page link](https://yoonjinxd.github.io/vocoder_demo)
+Demo page: [https://yoonjinxd.github.io/vocoder_demo](https://yoonjinxd.github.io/vocoder_demo)
+
+***
 
 Daftpunk, Zedd, Stevie Wonder와 같은 보컬 트랙에 등장하는 보코더 효과를 파이썬으로 재현해보자!
 
@@ -22,8 +23,6 @@ Daftpunk, Zedd, Stevie Wonder와 같은 보컬 트랙에 등장하는 보코더 
 
 
 <br>
-<br>
-
 
 
 <img src="{{site.url}}/images/2022-06-27-Vocoder-Project/vocoder.png">

@@ -6,11 +6,11 @@ math: false
 mermaid: false
 ---
 
-**"Text-conditioned Audio Editing"**, *2022 Fall AI605 Final Project*
-Yoonjin Chung, Junwon Lee
+*2022 Fall AI605 Final Project*, Yoonjin Chung, Junwon Lee
 
-[github](https://github.com/YoonjinXD/Text-conditioned-Audio-Editing)
-[report](https://github.com/YoonjinXD/Text-conditioned-Audio-Editing/blob/master/AI605_Capstone_Report.pdf)
+github link: [https://github.com/YoonjinXD/Text-conditioned-Audio-Editing](https://github.com/YoonjinXD/Text-conditioned-Audio-Editing)
+
+report: [https://github.com/YoonjinXD/Text-conditioned-Audio-Editing/blob/master/AI605_Capstone_Report.pdf](https://github.com/YoonjinXD/Text-conditioned-Audio-Editing/blob/master/AI605_Capstone_Report.pdf)
 
 ***
 
@@ -66,8 +66,6 @@ We have verified that substitution in sound source (i.e. who/what is making soun
         <td><audio src="{{site.url}}/images/2023-03-02-Text-conditioned-Audio-Editing/Y2KCoO8C8R8_G_0.6.wav" controls></audio></td>
     </tr>
 </table>
-
-<br>
 
 ### Sample 2
 (Original)A woman gives a speech → (Edited)A man gives a speech

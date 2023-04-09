@@ -8,7 +8,7 @@ mermaid: false
 
 This project is based on 2021 Fall GCT634 at KAIST
 
-github repository: https://github.com/YoonjinXD/Audio_Based_Album_Cover_Generator
+github link: [https://github.com/YoonjinXD/Audio_Based_Album_Cover_Generator](https://github.com/YoonjinXD/Audio_Based_Album_Cover_Generator)
 
 ***
 
