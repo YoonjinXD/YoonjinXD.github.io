@@ -8,6 +8,8 @@ mermaid: false
 
 This project is based on Fall 2021 GCT 634 at KAIST
 
+github link: [https://github.com/YoonjinXD/Music-Auto-Tagging](https://github.com/YoonjinXD/Music-Auto-Tagging)
+
 ***
 
 # SUMMARY
@@ -19,9 +21,9 @@ This project is based on Fall 2021 GCT 634 at KAIST
 
 Through the suggested approaches, the final improved models result in 0.86% roc accuracy for classification and ({'R@1': 0.47634560692813116, 'R@2': 0.6166209464753155, 'R@4': 0.7485045429220182, 'R@8': 0.8455286622762342}) recall for retrieval. 
 
-You can check more details in the [report](2021-11-22-Music-Auto-Tagging/report.pdf). The approaches and detailed methods for the improvement are explained in section 2. Remained discussion and future study are summarized in section 3.
+You can check more details in the report [here](https://github.com/YoonjinXD/Music-Auto-Tagging/blob/main/hw2_report.pdf). The approaches and detailed methods for the improvement are explained in section 2. Remained discussion and future study are summarized in section 3.
 
-You can also check all the implementations in this [github](https://github.com/YoonjinXD/Music-Auto-Tagging)
+You can also check all the implementations in the uploaded notebook.
 
 <br>
 <br>

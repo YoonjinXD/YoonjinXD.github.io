@@ -10,7 +10,7 @@ mermaid: false
 Yoonjin Chung, Junwon Lee
 
 [github](https://github.com/YoonjinXD/Text-conditioned-Audio-Editing)
-[report](2023-03-02-Text-conditioned-Audio-Editing/AI605_Capstone_Report.pdf)
+[report](https://github.com/YoonjinXD/Text-conditioned-Audio-Editing/blob/master/AI605_Capstone_Report.pdf)
 
 ***
 
