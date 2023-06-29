@@ -23,7 +23,7 @@ timezone:
 
 title: Yoonjin                          # the main title
 
-tagline: Music AI & Computer Science   # it will display as the sub-title
+tagline: Music and Audio AI   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A Graduated School Student.
@@ -69,7 +69,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # light | dark
+theme_mode: light
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -114,7 +114,7 @@ assets:
 pwa:
   enabled: true   # the option for PWA feature
 
-paginate: 10
+paginate: 6
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -188,10 +188,8 @@ exclude:
   - package*.json
 
 jekyll-archives:
-  enabled: [categories, tags]
+  enabled: [categories]
   layouts:
     category: category
-    tag: tag
   permalinks:
-    tag: /tags/:name/
     category: /categories/:name/
