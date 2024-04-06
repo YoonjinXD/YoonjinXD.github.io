@@ -7,12 +7,10 @@
   type: linkedin
   icon: 'fab fa-linkedin'
   url: 'https://www.linkedin.com/in/yoon-jin-chung-03783016a/'
-
-# Uncomment and complete the url below to enable more contact options
-# -
-#   type: mastodon
-#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your mastodon account page
+-
+  type: google-scholar
+  icon: 'ai ai-google-scholar ai-4x'
+  url:  'https://scholar.google.com/citations?user=UXaiGH4AAAAJ&hl=en'
 # -
 #   type: linkedin
 #   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
