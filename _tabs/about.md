@@ -5,7 +5,7 @@ order: 1
 ---
 
 
-## M.S Student, Graduate School of AI, KAIST
+## M.S in Graduate School of AI, KAIST
 한국과학기술원 AI 대학원 석사
 
 ## B.S in Computer Science, Korea University
