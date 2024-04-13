@@ -1,7 +1,6 @@
 ---
 title: Music Auto Tagging
 categories: projects
-tags: [AI, music-tag, classification, metric-learning]
 math: false
 mermaid: false
 ---

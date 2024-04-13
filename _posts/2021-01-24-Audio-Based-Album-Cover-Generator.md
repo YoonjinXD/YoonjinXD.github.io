@@ -1,7 +1,6 @@
 ---
 title: Audio-based Album Cover Generator
 categories: projects
-tags: [AI, music-image, generation]
 math: false
 mermaid: false
 ---

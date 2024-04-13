@@ -1,7 +1,6 @@
 ---
 title: Text-conditioned Audio Editing
 categories: projects
-tags: [AI, audio-text, generation]
 math: false
 mermaid: false
 ---
