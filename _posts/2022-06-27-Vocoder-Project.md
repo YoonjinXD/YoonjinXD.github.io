@@ -1,6 +1,7 @@
 ---
 title: Mimicking Vocal Tracks by Implementing and Applying Vocoder Effect
 categories: projects
+tags: [DSP]
 math: false
 mermaid: false
 ---
