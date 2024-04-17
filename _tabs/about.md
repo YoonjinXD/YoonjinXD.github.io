@@ -54,7 +54,7 @@ order: 1
 
 
 ## Short Bio
-
+I am Yoonjjin Chung whi is an AI researcher at [Gaduio Lab](https://www.gaudiolab.com/). Previously, I obtained a M.S. degree in Graduate School of AI from KAIST in 2023, advised by Prof. Juhan Nam. My research inerest is usually in multimodal general audio generation, music auto tagging/retrieval and sparsity of large models.
 
 
 ## Publications
@@ -73,6 +73,6 @@ order: 1
 ## Miscellaneous
 - iOS Developer, [Naver](https://www.navercorp.com/naver/naverMain)
 - B.S in Computer Science, Korea University
-- Undergraduate research assistant, [Operating System Lab](https://os.korea.ac.kr/) in Korea Univ.
+- Undergraduate Research Intern, [Operating System Lab](https://os.korea.ac.kr/) in Korea Univ.
 - Web Developer & Designer, Pop in Bridge
 
