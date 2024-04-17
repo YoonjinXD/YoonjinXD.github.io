@@ -53,13 +53,14 @@ order: 1
 </style>
 
 
-## Short Bio
+<!-- ## Short Bio -->
 
 
 
 ## Publications
-
-
+- ***T-FOLEY: A Controllable Waveform-Domain Diffusion Model for Temporal-Event-Guided Foley Sound Synthesis***, IEEE ICASSP, 2024 [[Paper]](https://arxiv.org/abs/2401.09294)[[Demo]](https://yoonjinxd.github.io/Event-guided_FSS_Demo.github.io/)
+- ***YM2413-MDB: A Multi-Instrumental FM Video Game Music Dataset with Emotion Annotations***, ISMIR 2022 [[Paper]](https://arxiv.org/abs/2211.07131)
+- *A Comparison of Melody Interpolation Performed by Human and Artificial Intelligence Based on Human Similarity Judgments*, 2023 International Conference on Music Perception and Cognition [[Paper]](https://mac.kaist.ac.kr/pubs/kim-icmpc2023.pdf), 
 
 
 ## Research Experience
