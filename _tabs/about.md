@@ -53,27 +53,26 @@ order: 1
 </style>
 
 
-<!-- ## Short Bio -->
+## Short Bio
 
 
 
 ## Publications
-- ***T-FOLEY: A Controllable Waveform-Domain Diffusion Model for Temporal-Event-Guided Foley Sound Synthesis***, IEEE ICASSP, 2024 [[Paper]](https://arxiv.org/abs/2401.09294)[[Demo]](https://yoonjinxd.github.io/Event-guided_FSS_Demo.github.io/)
-- ***YM2413-MDB: A Multi-Instrumental FM Video Game Music Dataset with Emotion Annotations***, ISMIR 2022 [[Paper]](https://arxiv.org/abs/2211.07131)
-- *A Comparison of Melody Interpolation Performed by Human and Artificial Intelligence Based on Human Similarity Judgments*, 2023 International Conference on Music Perception and Cognition [[Paper]](https://mac.kaist.ac.kr/pubs/kim-icmpc2023.pdf), 
+- ***T-FOLEY: A Controllable Waveform-Domain Diffusion Model for Temporal-Event-Guided Foley Sound Synthesis***, IEEE ICASSP 2024 [[Paper]](https://arxiv.org/abs/2401.09294)[[Demo]](https://yoonjinxd.github.io/Event-guided_FSS_Demo.github.io/) [[Code]](https://github.com/YoonjinXD/T-foley)
+- ***YM2413-MDB: A Multi-Instrumental FM Video Game Music Dataset with Emotion Annotations***, ISMIR 2022 [[Paper]](https://arxiv.org/abs/2211.07131) [[Demo]](https://jech2.github.io/YM2413-MDB/)
+- ***A Comparison of Melody Interpolation Performed by Human and Artificial Intelligence Based on Human Similarity Judgments***, 2023 International Conference on Music Perception and Cognition [[Paper]](https://mac.kaist.ac.kr/pubs/kim-icmpc2023.pdf)
 
 
 ## Research Experience
-- M.S in Graduate School of AI, MAC Lab in KAIST
-- Undergraduate Research Assistant, MLV Lab in Korea Univ.
-- Research Intern, Surromind Robotics
-- Undergraduate Research Assistant, DMIS Lab in Korea Univ.
+- M.S in Graduate School of AI, [MAC Lab](https://mac.kaist.ac.kr/) in KAIST
+- Undergraduate Research Intern, [DMIS Lab](https://dmis.korea.ac.kr/) in Korea Univ.
+- AI Research Intern, [Surromind Robotics](https://www.surromind.ai/)
+- Undergraduate Research Intern, [MLV Lab](https://www.hyunwoojkim.com/) in Korea Univ.
 
 
 ## Miscellaneous
-- iOS Developer, Naver
+- iOS Developer, [Naver](https://www.navercorp.com/naver/naverMain)
 - B.S in Computer Science, Korea University
-- Undergraduate research assistant, Operating System Lab
+- Undergraduate research assistant, [Operating System Lab](https://os.korea.ac.kr/) in Korea Univ.
 - Web Developer & Designer, Pop in Bridge
-- Web Developer, Korea University
 
