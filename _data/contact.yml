@@ -11,10 +11,10 @@
   type: google-scholar
   icon: 'fa fa-graduation-cap'
   url:  'https://scholar.google.com/citations?user=UXaiGH4AAAAJ&hl=en'
-# -
-#   type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
+-
+  type: twitter
+  icon: 'fa fa-twitter'
+  url:  'https://twitter.com/yoonjin_xd'
 # -
 #   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
