@@ -54,7 +54,7 @@ order: 1
 
 
 ## Short Bio
-I am Yoonjjin Chung whi is an AI researcher at [Gaduio Lab](https://www.gaudiolab.com/). Previously, I obtained a M.S. degree in Graduate School of AI from KAIST in 2023, advised by Prof. Juhan Nam. My research inerest is usually in multimodal general audio generation, music auto tagging/retrieval and sparsity of large models.
+I am Yoonjin Chung who is an AI researcher at [Gaduio Lab](https://www.gaudiolab.com/). Previously, I obtained an M.S. degree in the Graduate School of AI from KAIST in 2023, advised by Prof. Juhan Nam. My research interest is usually in a multimodal general audio generation, music auto-tagging/retrieval and sparsity of large models.
 
 
 ## Publications
