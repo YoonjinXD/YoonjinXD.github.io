@@ -63,16 +63,15 @@ I am Yoonjin Chung who is an AI researcher at [Gaduio Lab](https://www.gaudiolab
 - ***A Comparison of Melody Interpolation Performed by Human and Artificial Intelligence Based on Human Similarity Judgments***, 2023 International Conference on Music Perception and Cognition [[Paper]](https://mac.kaist.ac.kr/pubs/kim-icmpc2023.pdf)
 
 
-## Research Experience
+## Education
 - M.S in Graduate School of AI, [MAC Lab](https://mac.kaist.ac.kr/) in KAIST
-- Undergraduate Research Intern, [DMIS Lab](https://dmis.korea.ac.kr/) in Korea Univ.
-- AI Research Intern, [Surromind Robotics](https://www.surromind.ai/)
-- Undergraduate Research Intern, [MLV Lab](https://www.hyunwoojkim.com/) in Korea Univ.
-
-
-## Miscellaneous
-- iOS Developer, [Naver](https://www.navercorp.com/naver/naverMain)
 - B.S in Computer Science, Korea University
-- Undergraduate Research Intern, [Operating System Lab](https://os.korea.ac.kr/) in Korea Univ.
+
+
+## Experience
+- Research Intern, [Surromind Robotics](https://www.surromind.ai/)
+- Research Intern, [MLV Lab](https://www.hyunwoojkim.com/) in Korea Univ.
+- Research Intern, [Operating System Lab](https://os.korea.ac.kr/) in Korea Univ.
+- iOS Developer, [Naver](https://www.navercorp.com/naver/naverMain)
 - Web Developer & Designer, Pop in Bridge
 
