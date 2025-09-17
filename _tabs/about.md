@@ -54,25 +54,26 @@ order: 1
 
 
 ## Short Bio
-I am Yoonjin Chung who is an AI researcher at [Gaduio Lab](https://www.gaudiolab.com/). Previously, I obtained an M.S. degree in the Graduate School of AI from KAIST in 2023, advised by Prof. Juhan Nam. My research interest is usually in a multimodal general audio generation, music auto-tagging/retrieval and sparsity of large models.
+My name is Yoonjin Chung and now I'm working as an AI researcher at [Gaduio Lab](https://www.gaudiolab.com/). Previously, I obtained an M.S. degree in the Graduate School of AI from KAIST in 2023, advised by Prof. Juhan Nam. My research interest is usually in a general audio generation, sound event detection and music information retrieval.
 
 
 ## Publications
-- ***T-FOLEY: A Controllable Waveform-Domain Diffusion Model for Temporal-Event-Guided Foley Sound Synthesis***, IEEE ICASSP 2024 [[Paper]](https://arxiv.org/abs/2401.09294)[[Demo]](https://yoonjinxd.github.io/Event-guided_FSS_Demo.github.io/) [[Code]](https://github.com/YoonjinXD/T-foley)
-- ***YM2413-MDB: A Multi-Instrumental FM Video Game Music Dataset with Emotion Annotations***, ISMIR 2022 [[Paper]](https://arxiv.org/abs/2211.07131) [[Demo]](https://jech2.github.io/YM2413-MDB/)
-- ***A Comparison of Melody Interpolation Performed by Human and Artificial Intelligence Based on Human Similarity Judgments***, 2023 International Conference on Music Perception and Cognition [[Paper]](https://mac.kaist.ac.kr/pubs/kim-icmpc2023.pdf)
+- ***KAD: No More FAD! An Effective and Efficient Evaluation Metric for Audio Generation***, AI Heard That! ICML 2025 Workshop, **Yoonjin Chung**, Pilsun Eu, Junwon Lee, Keunwoo Choi, Juhan Nam, Ben Sangbae Chon. [[Paper]](https://arxiv.org/abs/2502.15602)
+- ***T-FOLEY: A Controllable Waveform-Domain Diffusion Model for Temporal-Event-Guided Foley Sound Synthesis***, IEEE ICASSP 2024, **Yoonjin Chung**, Junwon Lee, Juhan Nam. [[Paper]](https://arxiv.org/abs/2401.09294)[[Demo]](https://yoonjinxd.github.io/Event-guided_FSS_Demo.github.io/) [[Code]](https://github.com/YoonjinXD/T-foley)
+- ***YM2413-MDB: A Multi-Instrumental FM Video Game Music Dataset with Emotion Annotations***, ISMIR 2022, Eunjin Choi, **Yoonjin Chung**, Seolhee Lee, JongIk Jeon, Taegyun Kwon, Juhan Nam. [[Paper]](https://arxiv.org/abs/2211.07131) [[Demo]](https://jech2.github.io/YM2413-MDB/)
+- ***A Comparison of Melody Interpolation Performed by Human and Artificial Intelligence Based on Human Similarity Judgments***, 2023 International Conference on Music Perception and Cognition, Hyunjae Kim, Eun Ji Oh, Jieun Park, **Yoonjin Chung**, Juhan Nam, Kyung Myun Lee. [[Paper]](https://mac.kaist.ac.kr/pubs/kim-icmpc2023.pdf)
 
 
-## Research Experience
+## Education
 - M.S in Graduate School of AI, [MAC Lab](https://mac.kaist.ac.kr/) in KAIST
-- Undergraduate Research Intern, [DMIS Lab](https://dmis.korea.ac.kr/) in Korea Univ.
-- AI Research Intern, [Surromind Robotics](https://www.surromind.ai/)
-- Undergraduate Research Intern, [MLV Lab](https://www.hyunwoojkim.com/) in Korea Univ.
+- B.S in Computer Science, Korea University
 
 
 ## Miscellaneous
+- Undergraduate Research Intern, [DMIS Lab](https://dmis.korea.ac.kr/) in Korea Univ.
+- AI Research Intern, [Surromind Robotics](https://www.surromind.ai/)
+- Undergraduate Research Intern, [MLV Lab](https://www.hyunwoojkim.com/) in Korea Univ.
 - iOS Developer, [Naver](https://www.navercorp.com/naver/naverMain)
-- B.S in Computer Science, Korea University
 - Undergraduate Research Intern, [Operating System Lab](https://os.korea.ac.kr/) in Korea Univ.
 - Web Developer & Designer, Pop in Bridge
 
