@@ -54,7 +54,7 @@ order: 1
 
 
 ## Short Bio
-My name is Yoonjin Chung and now I'm working as an AI researcher at [Gaduio Lab](https://www.gaudiolab.com/). Previously, I obtained an M.S. degree in the Graduate School of AI from KAIST in 2023, advised by Prof. Juhan Nam. My research interest is usually in a general audio generation, sound event detection and music information retrieval.
+Hi, my name is Yoonjin Chung and now I'm working as an AI researcher at [Gaduio Lab](https://www.gaudiolab.com/). Previously, I obtained an M.S. degree in the Graduate School of AI from KAIST in 2023, advised by Prof. Juhan Nam. My research interest is usually in a general audio generation, sound event detection and music information retrieval!
 
 
 ## Publications
@@ -65,11 +65,11 @@ My name is Yoonjin Chung and now I'm working as an AI researcher at [Gaduio Lab]
 
 
 ## Education
-- M.S in Graduate School of AI, [MAC Lab](https://mac.kaist.ac.kr/) in KAIST
+- M.S in Graduate School of AI, [MAC Lab](https://mac.kaist.ac.kr/) in KAIST (GPA 3.7/4.3)
 - B.S in Computer Science, Korea University
 
 
-## Miscellaneous
+## Previous Experiences
 - Undergraduate Research Intern, [DMIS Lab](https://dmis.korea.ac.kr/) in Korea Univ.
 - AI Research Intern, [Surromind Robotics](https://www.surromind.ai/)
 - Undergraduate Research Intern, [MLV Lab](https://www.hyunwoojkim.com/) in Korea Univ.
