@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle:
-nickname: (Kaya)
 
 profile:
   align: left
