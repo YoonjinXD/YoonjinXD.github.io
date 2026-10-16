@@ -2,7 +2,7 @@
 layout: page
 title: Vocoder Effect
 description: A hand-built channel vocoder tuned to mimic the vocal sound of Daft Punk, Zedd and Stevie Wonder
-period: Mar 2022 - Jun 2022
+period: Jun 2022
 importance: 5
 category: research
 img: assets/img/projects/vocoder_demo.png
