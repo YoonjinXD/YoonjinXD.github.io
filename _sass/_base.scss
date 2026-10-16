@@ -215,6 +215,12 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
+// Keep the bio text in its own column beside the photo instead of wrapping under it
+.profile.float-left + .clearfix,
+.profile.float-right + .clearfix {
+  display: flow-root;
+}
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;
