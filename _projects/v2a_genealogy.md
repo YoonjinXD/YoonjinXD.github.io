@@ -12,4 +12,5 @@ V2A Genealogy is a single, filterable page that lists the representative video-t
 
 Filtering dims the entries that don't match instead of hiding them, so you can see how much of the field a given combination covers. The filtered view is stored in the URL, so it can be shared as a link.
 
-**Links:** [Live page](https://yoonjinxd.github.io/V2A_Genealogy/) · [Code](https://github.com/YoonjinXD/V2A_Genealogy)
+[Live page](https://yoonjinxd.github.io/V2A_Genealogy/) · [Code](https://github.com/YoonjinXD/V2A_Genealogy)
+{: .project-links}

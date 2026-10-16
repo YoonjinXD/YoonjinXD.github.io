@@ -132,3 +132,12 @@ $gallery-tones-dark: (
     }
   }
 }
+
+// Link row on each project page
+.project-links a {
+  color: var(--global-theme-color);
+
+  &:hover {
+    color: var(--global-theme-color);
+  }
+}

@@ -12,4 +12,5 @@ This was the final project for GCT535 Sound Technology for Multimedia at KAIST (
 
 With those controls we recreated the vocoder sound of a few iconic tracks by Daft Punk, Zedd and Stevie Wonder, and tried some stranger carrier sounds along the way.
 
-**Links:** [Demo page](https://yoonjinxd.github.io/vocoder_demo/) · [Code](https://github.com/YoonjinXD/vocoder_demo)
+[Demo page](https://yoonjinxd.github.io/vocoder_demo/) · [Code](https://github.com/YoonjinXD/vocoder_demo)
+{: .project-links}
