@@ -11,8 +11,10 @@ layout: default
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    {% if page.collection == "projects" %}
-      {% if page.period %}<p class="post-description">{{ page.period }}</p>{% endif %}
+    {% if page.collection == 'projects' %}
+      {% if page.period %}
+        <p class="post-description">{{ page.period }}</p>
+      {% endif %}
     {% else %}
       <p class="post-description">{{ page.description }}</p>
     {% endif %}

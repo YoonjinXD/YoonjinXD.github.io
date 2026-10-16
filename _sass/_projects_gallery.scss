@@ -4,20 +4,56 @@
 
 // Notion's pastel palette: background / text, light then dark
 $gallery-tones-light: (
-  0: (#e3e2e0, #32302c),
-  1: (#d3e5ef, #183347),
-  2: (#e8deee, #412454),
-  3: (#dbeddb, #1c3829),
-  4: (#fadec9, #49290e),
-  5: (#f5e0e9, #4c2337),
+  0: (
+    #e3e2e0,
+    #32302c,
+  ),
+  1: (
+    #d3e5ef,
+    #183347,
+  ),
+  2: (
+    #e8deee,
+    #412454,
+  ),
+  3: (
+    #dbeddb,
+    #1c3829,
+  ),
+  4: (
+    #fadec9,
+    #49290e,
+  ),
+  5: (
+    #f5e0e9,
+    #4c2337,
+  ),
 );
 $gallery-tones-dark: (
-  0: (#373737, #d4d4d4),
-  1: (#28456c, #d6e6f5),
-  2: (#492f64, #e6d9f2),
-  3: (#2b593f, #d3ecdc),
-  4: (#854c1d, #fbe2cd),
-  5: (#69314c, #f5dce8),
+  0: (
+    #373737,
+    #d4d4d4,
+  ),
+  1: (
+    #28456c,
+    #d6e6f5,
+  ),
+  2: (
+    #492f64,
+    #e6d9f2,
+  ),
+  3: (
+    #2b593f,
+    #d3ecdc,
+  ),
+  4: (
+    #854c1d,
+    #fbe2cd,
+  ),
+  5: (
+    #69314c,
+    #f5dce8,
+  ),
 );
 
 .gallery {
