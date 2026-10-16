@@ -13,4 +13,4 @@ T-FOLEY is a waveform-domain diffusion model that synthesizes foley sound effect
 
 The model was presented at **IEEE ICASSP 2024** {% cite chung2024tfoley %}.
 
-**Links:** [Code](https://github.com/YoonjinXD/T-foley)
+**Links:** [Paper](https://arxiv.org/abs/2401.09294) · [Demo](https://yoonjinxd.github.io/Event-guided_FSS_Demo.github.io/) · [Code](https://github.com/YoonjinXD/T-foley)

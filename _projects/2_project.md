@@ -11,4 +11,6 @@ related_publications: true
 
 YM2413-MDB is a dataset of multi-instrumental FM synthesizer music from classic video games, annotated with emotion labels. The dataset supports research in music information retrieval, emotion recognition, and generative music.
 
-The dataset was presented at **ISMIR 2022** {% cite chung2022ym2413 %}.
+The dataset was presented at **ISMIR 2022** {% cite choi2022ym2413 %}.
+
+**Links:** [Paper](https://arxiv.org/abs/2211.07131) · [Demo](https://jech2.github.io/YM2413-MDB/) · [Dataset](https://zenodo.org/record/7520537) · [Code](https://github.com/jech2/YM2413-MDB)
