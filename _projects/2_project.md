@@ -2,7 +2,7 @@
 layout: page
 title: YM2413-MDB
 description: A multi-instrumental FM video game music dataset with emotion annotations (ISMIR 2022)
-importance: 2
+importance: 4
 category: research
 icon: 🎮
 tags: [Dataset, Emotion, ISMIR 2022]
