@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(()=>{document.querySelectorAll('a[href^="http://"], a[href^="https://"]').forEach((e=>{e.target="_blank",e.rel="noopener noreferrer"}))}));

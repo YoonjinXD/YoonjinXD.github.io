@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "Curriculum vitae.",
@@ -48,16 +55,31 @@ ninja.data = [{
       },{id: "news-excited-to-share-that-i-have-been-accepted-to-the-phd-program-in-music-technology-at-new-york-university-i-will-join-this-fall-2026-and-start-my-degree-in-the-marl-lab",
           title: 'Excited to share that I have been accepted to the PhD program in...',
           description: "",
-          section: "News",},{id: "projects-t-foley",
+          section: "News",},{id: "projects-kad",
+          title: 'KAD',
+          description: "A distribution-free, unbiased and efficient evaluation metric for audio generation (ICML 2025 Workshop)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/kad/";
+            },},{id: "projects-t-foley",
           title: 'T-FOLEY',
           description: "A controllable waveform-domain diffusion model for temporal-event-guided foley sound synthesis (ICASSP 2024)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/t_foley/";
+            },},{id: "projects-v2a-genealogy",
+          title: 'V2A Genealogy',
+          description: "An interactive map of video-to-audio generation systems, metrics and datasets from 2016 to 2026",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/v2a_genealogy/";
+            },},{id: "projects-vocoder-effect",
+          title: 'Vocoder Effect',
+          description: "A hand-built channel vocoder tuned to mimic the vocal sound of Daft Punk, Zedd and Stevie Wonder",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/vocoder_demo/";
             },},{id: "projects-ym2413-mdb",
           title: 'YM2413-MDB',
           description: "A multi-instrumental FM video game music dataset with emotion annotations (ISMIR 2022)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/ym2413_mdb/";
             },},{
         id: 'social-github',
         title: 'GitHub',
@@ -78,6 +100,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=UXaiGH4AAAAJ", "_blank");
+        },
+      },{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%79%63%38%37%39%33@%6E%79%75.%65%64%75", "_blank");
         },
       },{
       id: 'light-theme',
