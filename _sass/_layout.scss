@@ -36,6 +36,16 @@ body.sticky-bottom-footer {
   img {
     width: 80%;
   }
+
+  // Social icons sit under the photo, centered to its width
+  .social {
+    width: 80%;
+    margin-top: 0.75rem;
+
+    .contact-icons {
+      font-size: 1.5rem;
+    }
+  }
 }
 
 // TODO: redefine content layout.
