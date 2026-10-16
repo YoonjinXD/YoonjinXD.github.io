@@ -82,6 +82,12 @@ $gallery-tones-dark: (
   line-height: 1.3;
 }
 
+.gallery-period {
+  margin-top: 2px;
+  font-size: 0.75rem;
+  color: var(--global-text-color-light);
+}
+
 .gallery-description {
   margin-top: 4px;
   font-size: 0.8rem;

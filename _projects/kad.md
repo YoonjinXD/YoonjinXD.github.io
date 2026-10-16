@@ -2,6 +2,7 @@
 layout: page
 title: KAD
 description: A distribution-free, unbiased and efficient evaluation metric for audio generation (ICML 2025 Workshop)
+period: Feb 2025 - Jul 2025
 importance: 2
 category: research
 img: assets/img/projects/kad.webp

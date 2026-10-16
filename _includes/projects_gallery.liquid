@@ -14,6 +14,9 @@
     <div class="gallery-title">
       {{ project.title }}
     </div>
+    {% if project.period %}
+      <div class="gallery-period">{{ project.period }}</div>
+    {% endif %}
     {% if project.description %}
       <div class="gallery-description">{{ project.description }}</div>
     {% endif %}
