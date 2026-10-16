@@ -1,0 +1,30 @@
+{% assign cover_tone = include.index | modulo: 6 %}
+<a
+  class="gallery-card"
+  href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}"
+>
+  <div class="gallery-cover{% unless project.img %} tone-{{ cover_tone }}{% endunless %}">
+    {% if project.img %}
+      <img src="{{ project.img | relative_url }}" alt="{{ project.title }} cover" loading="lazy">
+    {% elsif project.icon %}
+      <span class="gallery-cover-icon">{{ project.icon }}</span>
+    {% endif %}
+  </div>
+  <div class="gallery-body">
+    <div class="gallery-title">
+      {% if project.icon %}<span class="gallery-title-icon">{{ project.icon }}</span>{% endif %}
+      {{ project.title }}
+    </div>
+    {% if project.description %}
+      <div class="gallery-description">{{ project.description }}</div>
+    {% endif %}
+    {% if project.tags %}
+      <div class="gallery-tags">
+        {% for tag in project.tags %}
+          {% assign tag_tone = forloop.index0 | plus: include.index | modulo: 6 %}
+          <span class="gallery-tag tone-{{ tag_tone }}">{{ tag }}</span>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+</a>

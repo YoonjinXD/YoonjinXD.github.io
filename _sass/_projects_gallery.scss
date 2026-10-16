@@ -1,0 +1,134 @@
+/*******************************************************************************
+ * Projects gallery (Notion-style)
+ ******************************************************************************/
+
+// Notion's pastel palette: background / text, light then dark
+$gallery-tones-light: (
+  0: (#e3e2e0, #32302c),
+  1: (#d3e5ef, #183347),
+  2: (#e8deee, #412454),
+  3: (#dbeddb, #1c3829),
+  4: (#fadec9, #49290e),
+  5: (#f5e0e9, #4c2337),
+);
+$gallery-tones-dark: (
+  0: (#373737, #d4d4d4),
+  1: (#28456c, #d6e6f5),
+  2: (#492f64, #e6d9f2),
+  3: (#2b593f, #d3ecdc),
+  4: (#854c1d, #fbe2cd),
+  5: (#69314c, #f5dce8),
+);
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 16px;
+  margin: 1rem 0 2rem;
+}
+
+.gallery-card {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border-radius: 8px;
+  background-color: var(--global-card-bg-color);
+  box-shadow:
+    0 0 0 1px var(--global-divider-color),
+    0 2px 4px rgba(15, 15, 15, 0.06);
+  color: var(--global-text-color);
+  transition:
+    box-shadow 0.15s ease,
+    transform 0.15s ease;
+
+  &:hover {
+    text-decoration: none;
+    color: var(--global-text-color);
+    transform: translateY(-2px);
+    box-shadow:
+      0 0 0 1px var(--global-divider-color),
+      0 6px 16px rgba(15, 15, 15, 0.12);
+  }
+}
+
+.gallery-cover {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border-bottom: 1px solid var(--global-divider-color);
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .gallery-cover-icon {
+    font-size: 3rem;
+    line-height: 1;
+  }
+}
+
+.gallery-body {
+  padding: 10px 12px 12px;
+}
+
+.gallery-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.3;
+
+  .gallery-title-icon {
+    margin-right: 0.25rem;
+  }
+}
+
+.gallery-description {
+  margin-top: 4px;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  color: var(--global-text-color-light);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.gallery-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 8px;
+}
+
+.gallery-tag {
+  padding: 0 6px;
+  border-radius: 3px;
+  font-size: 0.75rem;
+  line-height: 1.5rem;
+  white-space: nowrap;
+}
+
+@each $i, $tone in $gallery-tones-light {
+  .gallery-cover.tone-#{$i} {
+    background-color: rgba(nth($tone, 1), 0.6);
+  }
+  .gallery-tag.tone-#{$i} {
+    background-color: nth($tone, 1);
+    color: nth($tone, 2);
+  }
+}
+
+@each $i, $tone in $gallery-tones-dark {
+  html[data-theme="dark"] {
+    .gallery-cover.tone-#{$i} {
+      background-color: rgba(nth($tone, 1), 0.6);
+    }
+    .gallery-tag.tone-#{$i} {
+      background-color: nth($tone, 1);
+      color: nth($tone, 2);
+    }
+  }
+}
