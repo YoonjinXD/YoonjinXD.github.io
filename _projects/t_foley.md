@@ -4,6 +4,7 @@ title: T-FOLEY
 description: A controllable waveform-domain diffusion model for temporal-event-guided foley sound synthesis (ICASSP 2024)
 importance: 3
 category: research
+img: assets/img/projects/t_foley.png
 icon: 🔊
 tags: [Foley, Diffusion, ICASSP 2024]
 related_publications: true

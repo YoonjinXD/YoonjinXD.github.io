@@ -4,6 +4,7 @@ title: V2A Genealogy
 description: An interactive map of video-to-audio generation systems, metrics and datasets from 2016 to 2026
 importance: 1
 category: research
+img: assets/img/projects/v2a_genealogy.png
 icon: 🧬
 tags: [Video-to-Audio, Survey, Web]
 ---

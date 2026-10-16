@@ -4,6 +4,7 @@ title: Vocoder Effect
 description: A hand-built channel vocoder tuned to mimic the vocal sound of Daft Punk, Zedd and Stevie Wonder
 importance: 5
 category: research
+img: assets/img/projects/vocoder_demo.png
 icon: 🤖
 tags: [DSP, Vocoder, Course Project]
 ---
