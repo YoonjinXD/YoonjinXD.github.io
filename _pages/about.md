@@ -24,4 +24,4 @@ latest_posts:
 
 I am a first-year PhD student in Music Technology at New York University, advised by Prof. [Juan Pablo Bello](https://steinhardt.nyu.edu/people/juan-pablo-bello). I received my M.S. from the Graduate School of AI at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. [Juhan Nam](https://mac.kaist.ac.kr/~juhan/), and my B.S. in Computer Science from Korea University. My research interest focuses on controllable audio/music generation and on the evaluation of generative models.
 
-Outside of research, I recharge by going on long walks with no particular destination, lying in the park doing absolutely nothing, and collecting hobbies faster than I can keep up with them. Music is always playing somewhere in the background, which probably explains how I ended up studying it.
+Outside of research, I recharge by going on long walks with no particular destination, lying in the park doing absolutely nothing, and collecting hobbies faster than I can keep up with them. Music 🎧 is always playing somewhere in the background, which probably explains how I ended up studying it.
